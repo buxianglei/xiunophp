@@ -1,7 +1,7 @@
 [OPTIONS]
 Compatibility=1.1 Or later
 Default Window=Main
-Default topic=D:\www\bbs.xiuno.com\xiunophp\chm_make\brief.html
+Default topic=D:\www\xiunophp\chm_make\brief.html
 Default font=微软雅黑,9,1
 Contents file=XiunoPHP3.0.hhc
 Index file=XiunoPHP3.0.hhk
@@ -10,7 +10,7 @@ Full-text search=Yes
 Language=0x804 中文(简体，中国)
 
 [WINDOWS]
-Main="Xiuno 开发手册 v1.0","XiunoPHP3.0.hhc","XiunoPHP3.0.hhk","D:\www\bbs.xiuno.com\xiunophp\chm_make\brief.html","D:\www\bbs.xiuno.com\xiunophp\chm_make\brief.html",,,,,0x20,180,0x104E,[80,60,720,540],0x0,0x0,,,,,0
+Main="Xiuno 开发手册 v1.0","XiunoPHP3.0.hhc","XiunoPHP3.0.hhk","D:\www\xiunophp\chm_make\brief.html","D:\www\xiunophp\chm_make\brief.html",,,,,0x20,180,0x104E,[80,60,720,540],0x0,0x0,,,,,0
 
 [FILES]
 1.html
@@ -526,7 +526,7 @@ brief.html
 brief.html
 chm.css
 chm.css
-D:\www\bbs.xiuno.com\xiunophp\chm_make_1-1.html
+D:\www\xiunophp\chm_make_1-1.html
 form_options.html
 form_options.html
 index.html
